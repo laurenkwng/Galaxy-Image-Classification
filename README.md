@@ -24,3 +24,6 @@ responses to previous questions.
 * Lauren Wong
 * Addison Luria-Robertson
 * Chuqiao Liu
+
+## CNN Model Validation Accuracy
+<img width="783" alt="Screen Shot 2019-07-07 at 5 52 42 PM" src="https://user-images.githubusercontent.com/30671201/60776313-25defd00-a0e0-11e9-8249-54ed9f52d050.png">
