@@ -9,7 +9,7 @@ The dataset is sourced from NASA’s Sloan Digital Sky Survey and GalaxyZoo. The
 classifications of each Sloan image based on the responses of tens of thousands of GalaxyZoo users. Users answered questions on the shape of each galaxy and then answered questions depending on the
 responses to previous questions.
 
-## CNN Model Validation Accuracy
+## CNN Transfer Learning Validation Accuracy
 <img width="783" alt="Screen Shot 2019-07-07 at 5 52 42 PM" src="https://user-images.githubusercontent.com/30671201/60776313-25defd00-a0e0-11e9-8249-54ed9f52d050.png">
 
 
