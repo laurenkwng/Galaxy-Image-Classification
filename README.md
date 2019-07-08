@@ -24,6 +24,20 @@ responses to previous questions.
 * Decision Tree Classification
 * K-Nearest Neighbors Algorithm
 
+### Conclusions
+Based on previous results, the 2-Class CNN model is the champion model of our data, which has
+approximately 90 percent high accuracy. The 4-Class CNN model performs high accuracy on training
+dataset and low accuracy on testing dataset. Neither could we decide if regression models can be used
+to classify images of spiral, edge, smooth, and otherly shaped galaxies nor could we employ the
+champion model to determine the tightness of the arms of a spiral galaxy. Those questions require
+further research.
+
+Our future research will be done to construct an accurate, four-class model. This can be done by not
+converting the images to grayscale and instead using Principal Component Analysis as an alternative
+method of reducing file size. Should this not improve the situation, a Logit or Naive-Bayes model can
+be generated and compared for relative accuracy. If any of these models prove viable, the final step is to
+re-train the model on the full set of images.
+
 ### Contributors
 * Lauren Wong
 * Addison Luria-Robertson
