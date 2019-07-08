@@ -10,8 +10,8 @@ classifications of each Sloan image based on the responses of tens of thousands 
 responses to previous questions.
 
 ### Built With
-PySpark
-Python
+* PySpark
+* Python
 
 ### Methodology
 * Variable and Image Transformation
